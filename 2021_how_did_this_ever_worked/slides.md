@@ -5,7 +5,7 @@
 -> How did this ever worked? <-
 =========
 
--> Wololo <-
+-> And other weird things that I've seen in the wild <-
 
 -------------------------------------------------
 
